@@ -3,7 +3,7 @@ title: Frédéric Wang
 tagline: Yet another non-exponentially growing weblog
 url: https://frederic-wang.fr/
 paginate: 1
-baseurl: ""
+baseurl: "http://fred-wang.github.io/frederic-wang.fr/"
 permalink: pretty
 
 # Gems
