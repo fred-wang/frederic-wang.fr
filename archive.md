@@ -1,11 +1,9 @@
 ---
 layout: default
-title: Archive
+title: Blog archive
 ---
 
-# Archive
-
-Browse all posts by month and year.
+# Blog archive
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}

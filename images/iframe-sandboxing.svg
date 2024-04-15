@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 300 200"
+   version="1.1">
+  <defs
+     id="defs3724">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;fill:#ff0000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4588" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4588-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-7"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4588-7-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend-3-7-1"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4588-7-4-9" />
+    </marker>
+  </defs>
+  <rect
+     ry="16.621796"
+     y="7.6581941"
+     x="21.561455"
+     height="166.68436"
+     width="128.56487"
+     id="rect3732"
+     style="opacity:1;fill:#0000ff;fill-opacity:1;stroke-width:1.05267262" />
+  <path
+     id="path3778"
+     d="m 129.70409,65.565861 c 31.24669,34.607679 95.97475,28.325722 111.04328,4.328043 C 255.8159,45.896225 192.87982,43.56386 149.64648,39.939029"
+     style="fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend)" />
+  <path
+     id="path3778-8"
+     d="M 133.53838,137.41768 C 304.44159,57.65051 226.69178,93.373648 265.44159,75.65051 304.1914,57.927372 308.35863,21.50195 153.34477,18.32256"
+     style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-7)" />
+  <g
+     transform="translate(7.088149,66.100959)"
+     id="g26414">
+    <g
+       id="g25114"
+       transform="translate(-0.76078313,4.582775)">
+      <rect
+         ry="15"
+         y="40.733944"
+         x="31.192661"
+         height="48.440369"
+         width="102.01835"
+         id="rect3742"
+         style="opacity:1;fill:#00ff00;fill-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:20px;font-family:sans;-inkscape-font-specification:sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="39.597977"
+       y="63.528389"
+       id="text24502"><tspan
+         id="tspan24500"
+         x="39.597977"
+         y="63.528389">Sandboxed</tspan><tspan
+         x="39.597977"
+         y="83.528389"
+         id="tspan24544">iframe</tspan></text>
+  </g>
+  <g
+     transform="translate(9,-22)"
+     id="g26407">
+    <rect
+       style="opacity:1;fill:#ff00ff;fill-opacity:1"
+       id="rect3742-9"
+       width="102.01835"
+       height="48.440369"
+       x="191.34477"
+       y="125.32256"
+       ry="15" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:20px;font-family:sans;-inkscape-font-specification:sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="219.4272"
+       y="154.33618"
+       id="text24502-8-8"><tspan
+         x="219.4272"
+         y="154.33618"
+         id="tspan24540">Popup</tspan></text>
+  </g>
+  <g
+     transform="translate(6.4311927,-68.990826)"
+     id="g26420">
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1"
+       id="rect3742-8"
+       width="102.01835"
+       height="48.440369"
+       x="30.989262"
+       y="105.71786"
+       ry="15" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:20px;font-family:sans;-inkscape-font-specification:sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="40.001175"
+       y="125.96127"
+       id="text24502-3"><tspan
+         id="tspan24500-7"
+         x="40.001175"
+         y="125.96127">Sandboxed</tspan><tspan
+         x="40.001175"
+         y="145.96127"
+         id="tspan24544-1">iframe</tspan></text>
+  </g>
+  <text
+     id="text25124"
+     y="25.321102"
+     x="44.036697"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:20px;font-family:sans;-inkscape-font-specification:sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     xml:space="preserve"><tspan
+       y="25.321102"
+       x="44.036697"
+       id="tspan25122">Top Frame</tspan></text>
+  <path
+     id="path3778-8-0"
+     d="m 113.53838,148.85805 c 36.8588,49.19136 67.87156,47.49527 101.0418,45.24508 33.17024,-2.25019 38.87515,-32.4814 45.86129,-50.66078"
+     style="fill:none;fill-rule:evenodd;stroke:#00ff00;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-3-7-1)" />
+</svg>
