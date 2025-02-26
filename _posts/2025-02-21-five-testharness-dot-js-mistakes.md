@@ -319,5 +319,4 @@ To make sure we report the failure immediately in that case, we can instead reje
 ```
 
 Regarding the side question, if you run the test by opening the page in the browser, then the report will be appended at the bottom of the page by default.
-But `lazyframe` has very large height, and the page may be scrolled to some other location.
-`<div id="log"></div>` makes sure the report is placed at the bottom of the page, while the `add_cleanup()` ensures that we scroll to that location after test execution.
+But `lazyframe` has very large height, and the page may be scrolled to some other location. An [explicit `<div id="log">`](https://web-platform-tests.org/writing-tests/testharness-api.html#output) ensures the report is inserted inside that div at top of the page, while the `add_cleanup()` ensures that we scroll to that location after test execution.
